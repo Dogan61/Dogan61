@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Doğan Şentürk
 
-### Fullstack & Mobile Developer
+### Mobile Developer
 
 ## 📊 GitHub Analytics
 
