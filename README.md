@@ -4,14 +4,6 @@
 
 ### Mobile Developer
 
-## 📊 GitHub Analytics
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dogan61&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dogan61&theme=radical" alt="Profile Summary"/>
-</div>
-
----
 
 ## 💬 Let's Connect
 
